@@ -9,15 +9,15 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            This is a TechAcademy Test!
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="http://www.tech-academy.io"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+          TA
           </a>
         </header>
       </div>
